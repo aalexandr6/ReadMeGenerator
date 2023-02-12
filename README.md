@@ -1,4 +1,4 @@
-## Profesional README Generator
+## Professional README Generator
  ## Table of Contents
    - [Description](#project-description)
    - [Installation](#installation)
