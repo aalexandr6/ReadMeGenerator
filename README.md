@@ -20,5 +20,5 @@
   ## Testing
   Run Node
   ## Questions
-  Reach out to the repo owner [aalexandr6](https://github.com/aalexandr6) at aalexanderp6@gmail.com.
+  [aalexandr6](https://github.com/aalexandr6) at aalexanderp6@gmail.com.
     
