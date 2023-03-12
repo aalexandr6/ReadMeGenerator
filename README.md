@@ -1,4 +1,4 @@
-## Profesional README Generator
+## Professional README Generator
  ## Table of Contents
    - [Description](#project-description)
    - [Installation](#installation)
@@ -8,7 +8,7 @@
    - [Questions](#questions)
   ## Project Description
   How to make a quick good Quality README!
-  ### Licensing 
+  ## Licensing 
   MIT
   [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/.)
   ## Installation 
