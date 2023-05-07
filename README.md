@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a command-line application tha generates a professional README.md file from a user's input using the Inquirer package. The application will be invoked with the following command:
+This is a command-line application that generates a professional README.md file from a user's input using the Inquirer package. The application will be invoked with the following command:
 
 `node index.js`
 
