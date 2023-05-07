@@ -73,8 +73,7 @@ Inquirer is a collection of common interactive command line user interfaces.
 
 ## Walkthrough
 
-[Walkthrough Video] (https://drive.google.com/file/d/1BZLQ4mHLKhNp2MydetPmaN-RwfO1fVMx/view)
-
+**📀** [README Generator 🎥](https://drive.google.com/file/d/1BZLQ4mHLKhNp2MydetPmaN-RwfO1fVMx/view)
 ## Questions
 
 [aalexandr6](https://github.com/aalexandr6) at aalexanderp6@gmail.com.
