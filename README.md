@@ -22,20 +22,16 @@ The README will be populated with the following:
 
 ## Table of Contents
 
-- [Project Description](#project-description)
 - [Criteria](#criteria)
 - [Licensing](#licensing)
 - [Installation](#installation)
 - [Inquirer](#inquirer)
 - [Questions](#questions)
 
-## Project Description
-
-I want to generate a quick README.md file for my projects
-
 ## Criteria
 
-```GIVEN a command-line application that accepts user input
+```
+GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 WHEN I enter my project title
