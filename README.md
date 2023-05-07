@@ -30,7 +30,7 @@ The README will be populated with the following:
 
 ## Criteria
 
-```
+```bash
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -55,7 +55,7 @@ MIT
 
 ## Installation
 
-```
+```bash
 npm install
 npm install inquirer
 node index.js
@@ -71,6 +71,9 @@ Inquirer is a collection of common interactive command line user interfaces.
 - validating answers
 - managing hierarchical prompts
 
+## Walkthrough
+
+**📀** [README Generator 🎥](https://drive.google.com/file/d/1BZLQ4mHLKhNp2MydetPmaN-RwfO1fVMx/view)
 ## Questions
 
 [aalexandr6](https://github.com/aalexandr6) at aalexanderp6@gmail.com.
